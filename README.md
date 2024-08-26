@@ -126,4 +126,7 @@ Utilizam praticamente a mesma interface.
 
 ## Tutorial (entrega)
 
-O tutorial está disponível em [Como configurar sua chave Pix](configurar-pix/configurar-chave-pix.md)
+O tutorial está disponível em:
+
+- [Como configurar sua chave Pix](configurar-pix/configurar-chave-pix.md)
+- [How to setup Pix key](configurar-pix/how_to_setup_pix_key.md)
