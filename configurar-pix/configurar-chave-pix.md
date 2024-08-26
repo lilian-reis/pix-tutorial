@@ -2,7 +2,9 @@
 
 Cadastrar uma chave Pix é como dar um apelido para a sua conta. Você pode escolher usar o seu CPF/CNPJ, e-mail, número de celular ou, se preferir, criar uma chave aleatória, sem os seus dados pessoais. Assim, você pode receber transferências informando apenas um desses dados. Veja como é simples cadastrar:
 
-### Mobile
+---
+
+## Itaú no celular
 
 1. Abra o app Itaú e toque em **Área pix**.
 2. Acesse sua conta informando seus dados.
@@ -26,8 +28,6 @@ Cadastrar uma chave Pix é como dar um apelido para a sua conta. Você pode esco
 
 Pronto! A sua chave Pix está cadastrada e já pode ser usada para receber transferências.
 
----
-
 > [!TIP] Dica
 > Lembre-se de que há um limite de chaves para cada tipo de conta (corrente e poupança):
 >
@@ -39,9 +39,9 @@ Pronto! A sua chave Pix está cadastrada e já pode ser usada para receber trans
 
 ---
 
-### Internet
+### Itaú na internet
 
-1. No [site do Itaú](https://www.itau.com.br/) ou app Itaú no computador, acesse sua conta informando seus dados.
+1. Entre no [site do Itaú](https://www.itau.com.br/) ou abra o app Itaú no computador e acesse sua conta informando seus dados.
 2. Na página inicial, clique em **Pix**.
 3. Clique em **cadastrar chave Pix**.
 4. Escolha se a chave será usada para as transações da sua conta **corrente** ou **poupança**.
@@ -67,3 +67,11 @@ Pronto! A sua chave Pix está cadastrada e já pode ser usada para receber trans
 7. Para finalizar, verifique se está tudo certo e clique em **confirmar**.
 
 Pronto! A sua chave Pix está cadastrada e já pode ser usada para receber transferências.
+
+---
+
+## Perguntas frequentes
+
+- [Como excluir uma chave Pix cadastrada?]("")
+- [Como trocar minha chave Pix entre minhas contas Itaú (corrente e poupança)]("")
+
