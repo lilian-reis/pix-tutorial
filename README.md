@@ -8,20 +8,22 @@ Pense que este tutorial poderia ser publicado em uma documentação pública. Po
 
 ### Público
 
-- Pessoa física ou jurídica? Quais as diferenças no cadastro e no layout de configuração?
+- Pessoa física ou jurídica? Quais as diferenças no cadastro/conceito e no layout de configuração?
 
 ### Meio
 
 - Em qual dispositivo: mobile ou internet, ou ambos?
 - Também é possível fazer no caixa eletrônico e/ou presencialmente no banco?
 
-### Internacionalização
+### Linguagem
 
-- Português e inglês?
+- Voz e tom do Itaú: a voz do Itaú é de credibilidade, consistência e o tom é de acolhimento. O Itaú entende as pessoas, quer abraçá-las, acolhê-las do jeito que são. Mais do que isso, ele está disponível para ajudá-las a realizar os seus sonhos. Por isso o tom de voz é suave, amigável. <https://www.linkedin.com/pulse/tom-de-voz-e-marcas-com-atitude-adriano-frachetta/>
+  
+- Internacionalização: Português e inglês? Não encontrei opção de troca de idioma no site do Itaú.
 
 ### Onde será publicado?
 
-- É uma documentação pública. Site do banco?
+- É uma documentação pública. Site do banco <https://www.itau.com.br/atendimento-itau/para-voce>
   
   > **Importante:** Não precisa estar logado no site/app para acessar o doc.
 
@@ -67,53 +69,29 @@ Pense que este tutorial poderia ser publicado em uma documentação pública. Po
 
 <https://www.bcb.gov.br/meubc/faqs/p/O-que-e-chave-pix>
 
-Pessoas físicas podem cadastrar até 5 chaves para cada conta. E pessoas jurídicas, até 20 chaves.
+Pessoas físicas podem cadastrar até 5 chaves para cada conta.
+Pessoas jurídicas, até 20 chaves.
 
 A chave é como um apelido da sua conta. Você pode usar seu CPF/CNPJ, email, número de celular ou criar uma chave aleatória.
 
+As chaves não podem ser repetidas, logo, se você utiliza o CPF como chave Pix em uma conta de um banco, esse código não poderá ser utilizado na conta de outra instituição financeira, a não ser que o usuário solicite a portabilidade.
 
-Existem vários caminhos:
+---
 
-- Tela principal, clique em **Pix e Transferir**
-- Após clicar em Acessar:
-  - Atalho meu Itaú: **Pix e Transferir**.
-  - ou No menu menu inferior, toque em **pagamentos** (duas flechas)
+## Como cadastrar a minha chave Pix?
 
-Após abrir, por qualquer um deles: está dentro da área Pix
-Dentro existe um item **minhas chaves**.
-Abre a tela **minhas chaves Pix**
-Essa tela é dividida em:
-
-- Chaves ativas em conta corrente
-
-
-- no final o iToken valida.. ou seja, precisa ter um iToken
-- CPF somente um pode ser cadastrado!
-
-# Como cadastrar a minha chave Pix?
-
-**Pré-requisitos**
-
-- Itoken válido
-
-## Passo 1: Acessar as minhas chaves e iniciar o cadastro
-
-Para receber transferências informando apenas o seu CPF/CNPJ, e-mail, número de celular ou uma chave numérica, basta criar uma chave Pix. Para isso, realize os passos abaixo:
+Para receber transferências informando apenas o seu CPF/CNPJ, e-mail, número de celular ou uma chave exclusiva, basta criar uma **chave Pix**. Para isso, realize os passos abaixo:
 
 1. Abra o app Itaú no seu celular e toque em **Área Pix**.
 2. Na parte superior, toque em **minhas chaves**.
-
-   As chaves já cadastradas são exibidas.
-
 3. Toque em **Cadastrar ou trazer chave Pix**.
-4. Selecione o tipo de conta (**corrente ou poupança**) para a qual essa chave deve ser gerada.
-
-   >**Importante:** Essa opção não é exibida para contas de pessoas jurídicas.
-
+4. Selecione o tipo de conta (**corrente ou poupança**) que deseja vincular a essa chave.
 5. Selecione o **tipo de chave** que deseja gerar e realize as validações necessárias.
 
-     - **CPF (pessoa física) ou CNPJ (pessoa jurídica):** o número cadastrado na sua conta já vem preenchido, basta selecionar essa opção.
+     - **CPF (pessoa física) ou CNPJ (pessoa jurídica):** já vem preenchido com o número cadastrado na sua conta, então é só selecionar essa opção.
+
      - **e-mail:** você pode utilizar o e-mail do seu cadastro (que já vem preenchido), ou informar outro agora.
+
        1. Informe o endereço de e-mail e toque em **continuar**.
 
           Uma **mensagem** contendo o código de validação é enviada para o endereço informado.
@@ -121,13 +99,14 @@ Para receber transferências informando apenas o seu CPF/CNPJ, e-mail, número d
        2. Digite o **código** que você recebeu no e-mail e toque em **continuar**.
 
      - **celular:** você pode utilizar o celular do seu cadastro (que já vem preenchido), ou informar outro agora.
+
        1. Informe o número do celular e toque em **continuar**.
 
           Um **SMS** contendo o código de validação é enviado para o número informado.
 
        2. Digite o **código** que você recebeu no celular e toque em **continuar**.
 
-     - **chave aleatória:** para receber transações sem informar dados pessoais, podemos criar um código de letras e números exclusivo para você. Basta selecionar essa opção.
+     - **chave aleatória:** para receber transações sem informar dados pessoais, podemos criar um código de letras e números exclusivo para você. Para isso, basta selecionar essa opção.
   
 6. Verifique se está tudo correto e toque em **confirmar**.
    Pronto, a sua chave Pix está cadastrada e já pode ser usada para receber transferências.
