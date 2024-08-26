@@ -58,10 +58,12 @@ Usuários de Pix do banco Itaú. Pessoa física e jurídica.
 
 ### Tipos de chave PIX
 
-- **CPF** (pessoa física) ou **CNPJ** (pessoa jurídica): presente no cadastro da conta.
-- **e-mail:** do cadastro ou outro, sempre mediante validação por recebimento de código.
-- **celular:** do cadastro ou outro, sempre mediante validação por recebimento de código
-- **chave aleatória:** gerada pelo Banco Central
+| Chave | Descrição |
+| ----- | ----- |
+| **CPF** ou **CNPJ** | Presente no cadastro da conta do banco de pessoa física (**CPF**) ou pessoa jurídica (**CNPJ**) |
+| **E-mail** | Endereço de e-mail informado no cadastro no banco ou outro, sempre mediante validação por recebimento de código |
+| **Celular**| Número do celular presente no cadastro do banco ou outro, sempre mediante validação por recebimento de código |
+| **Chave aleatória**| Código alfanumérico (letras e números) de 32 caracteres, gerado aleatoriamente pelo Banco Central |
 
 ### Quantidade de chaves PIX que podem ser cadastradas
 
