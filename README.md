@@ -89,10 +89,12 @@ A chave Pix é **exclusiva** entre as contas e entre todas as demais instituiç�
 **Telas:**
 
 - Minhas chaves Pix:
-  ![minhas chaves Pix](image/mobile-cadastrar-chave-pix.jpg)
+  
+  <img src=image/mobile-cadastrar-chave-pix.jpg width=50% height=auto>
 
 - Seleção de tipos de chave Pix:
-  ![tipos de chave Pix](image/mobile-cadastrar-chave-pix-tipos.jpg)
+  
+  <img src=image/mobile-cadastrar-chave-pix-tipos.jpg width=50% height=auto>
 
 ### Internet: Site do Itaú e App no computador
 
