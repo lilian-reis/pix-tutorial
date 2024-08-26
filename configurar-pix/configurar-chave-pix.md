@@ -28,13 +28,13 @@ Cadastrar uma chave Pix é como dar um apelido para a sua conta. Você pode esco
 
 Pronto! A sua chave Pix está cadastrada e já pode ser usada para receber transferências.
 
-> [!TIP] Dica
+> **Dica**
 > Lembre-se de que há um limite de chaves para cada tipo de conta (corrente e poupança):
 >
 > - **Pessoa física:** você pode cadastrar até 5 chaves para cada uma de suas contas.
 > - **Pessoa jurídica:** você pode cadastrar até 20 chaves para cada uma de suas contas.
 
-> [!NOTE] Importante
+> **Importante**
 > A chave Pix é **exclusiva** entre suas contas e entre todos os demais bancos. Se a informação já estiver em uso, você não poderá cadastrá-la novamente. Mas não se preocupe, é possível solicitar a portabilidade da chave.
 
 ---
