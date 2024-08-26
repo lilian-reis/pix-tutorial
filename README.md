@@ -23,8 +23,6 @@
  Você atua como Technical Writer em uma empresa e o Product Manager do projeto que você faz parte pediu um tutorial de como utilizar o produto. Para isso, ele te orientou a criar um repositório no Github e escrever em markdown um texto com o tema "Como
  configurar sua chave PIX".
 
- Você ainda não tem informações de quem é esse cliente,então não se esqueça da acessibilidade desse conteúdo.
-
 ---
 
 ## Público
