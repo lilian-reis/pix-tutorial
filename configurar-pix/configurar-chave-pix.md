@@ -74,6 +74,8 @@ Pronto! A sua chave Pix está cadastrada e já pode ser usada para receber trans
 
 ## Perguntas frequentes
 
-- [Como excluir uma chave Pix cadastrada?]("")
-- [Posso trocar uma chave Pix entre minhas contas Itaú (corrente e poupança)]("")
-- [Como faço para solicitar a portabilidade da chave Pix]("")
+- [Como excluir uma chave Pix cadastrada?][itau]
+- [Posso trocar uma chave Pix entre minhas contas Itaú (corrente e poupança)][itau]
+- [Como faço para solicitar a portabilidade da chave Pix][itau]
+
+[itau]: https://www.itau.com.br/atendimento-itau/para-voce
