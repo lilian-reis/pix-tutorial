@@ -10,7 +10,7 @@
     - [Tipos de chave PIX](#tipos-de-chave-pix)
     - [Quantidade de chaves PIX que podem ser cadastradas](#quantidade-de-chaves-pix-que-podem-ser-cadastradas)
     - [Repetição de chave PIX](#repetição-de-chave-pix)
-  - [Exploração da configuração](#exploração-da-configuração)
+  - [Explorando a configuração](#explorando-a-configuração)
     - [Mobile: App do Itaú no celular](#mobile-app-do-itaú-no-celular)
     - [Internet: Site do Itaú e App no computador](#internet-site-do-itaú-e-app-no-computador)
   - [Programas usados](#programas-usados)
@@ -78,7 +78,7 @@ A chave Pix é **exclusiva** entre as contas e entre todas as demais instituiç�
 
 ---
 
-## Exploração da configuração
+## Explorando a configuração
 
 ### Mobile: App do Itaú no celular
 
@@ -89,12 +89,12 @@ A chave Pix é **exclusiva** entre as contas e entre todas as demais instituiç�
 **Telas:**
 
 - Minhas chaves Pix:
-  
-  <img src=image/mobile-cadastrar-chave-pix.jpg width=50% height=auto>
+
+  ![Imagem da tela de cadastro da chave Pix no celular - a tela está exibindo as minhas chaves, que lista as chaves cadastradas e possui o botão 'Cadastrar ou trazer Chave Pix'](./image/mobile-cadastrar-chave-pix.png)
 
 - Seleção de tipos de chave Pix:
   
-  <img src=image/mobile-cadastrar-chave-pix-tipos.jpg width=50% height=auto>
+  ![Imagem da tela de cadastro da chave Pix no celular - a tela está exibindo os tipos de chaves Pix disponíveis para o cadastro](./image/mobile-cadastrar-chave-pix-tipos.png)
 
 ### Internet: Site do Itaú e App no computador
 
@@ -109,10 +109,10 @@ Utilizam praticamente a mesma interface.
 **Telas:**
 
 - Cadastro de chave
-  ![cadastro de chave](image/site-cadastro-chave-pix-dados.png)
+  ![Imagem da tela de cadastro da chave Pix na internet - a tela está exibindo os tipos de chaves Pix disponíveis para o cadastro](image/site-cadastro-chave-pix-dados.png)
 
 - Autenticação
-  ![alt text](image/site-cadastro-chave-pix-autenticacao.png)
+  ![Imagem da tela de cadastro da chave Pix no internet durante a fase de autenticação, onde é necessário ler o iToken QR Code](image/site-cadastro-chave-pix-autenticacao.png)
 
 ---
 
@@ -126,7 +126,4 @@ Utilizam praticamente a mesma interface.
 
 ## Tutorial (entrega)
 
-O tutorial está disponível em:
-
-- [Como configurar sua chave Pix](configurar-pix/configurar-chave-pix.md)
-- [How to setup Pix key](configurar-pix/how_to_setup_pix_key.md)
+O tutorial está disponível em [docs > pagamentos > transferências > pix > configurar-pix ](docs/pagamentos/transferencias/pix/configurar-pix)
