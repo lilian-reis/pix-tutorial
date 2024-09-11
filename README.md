@@ -15,6 +15,7 @@
     - [Internet: Site do Itaú e App no computador](#internet-site-do-itaú-e-app-no-computador)
   - [Programas usados](#programas-usados)
   - [Tutorial (entrega)](#tutorial-entrega)
+  - [Apresentação](#apresentação)
 
 ---
 
@@ -127,3 +128,9 @@ Utilizam praticamente a mesma interface.
 ## Tutorial (entrega)
 
 O tutorial está disponível em [docs > pagamentos > transferências > pix > configurar-pix ](docs/pagamentos/transferencias/pix/configurar-pix)
+
+---
+
+## Apresentação
+
+![Video curto contendo a apresentação do projeto, usado na segunda etapa do teste técnico](image/Zup-Pix.gif)
